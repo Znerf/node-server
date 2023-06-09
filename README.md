@@ -7,6 +7,11 @@ This is basic CRUD Operation in Node
 3. mongodb server
 
 #Step for running 
-1. clone this repo
-2. npm install
-3. npm run start
+### `git clone https://github.com/Znerf/node-server`
+### `cd node-server`
+### `npm install`
+### `npm run start`
+
+
+### Contact
+Go to my website and say Hi  [http://sagarshrestha1999/com.np](http://sagarshrestha1999/com.np)
